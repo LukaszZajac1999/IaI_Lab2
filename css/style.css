@@ -1,0 +1,25 @@
+body {background-color: hotpink;}
+nav ul li {
+    display: inline;
+}
+
+  footer {
+	  background:#3c4a50;
+		position:fixed;
+		bottom:0px;
+		width:100%;
+		text-align:center;
+	}
+
+
+img {
+    width: 600px;
+    height: 600px;
+}
+
+a:hover
+{
+    background-color: blue;
+    color: red;
+    transition: all 1s;
+}
