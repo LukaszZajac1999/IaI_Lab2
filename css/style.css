@@ -1,0 +1,37 @@
+
+body {background-color: hotpink;}
+
+nav ul li {
+    display: inline;
+}
+
+  h1 {
+
+  		text-align:center;
+  	}
+
+  footer {
+	  background:#3c4a50;
+		position:fixed;
+		bottom:0px;
+		width:100%;
+		text-align:center;
+	}
+
+
+img {
+    width: 600px;
+    height: 600px;
+}
+
+a:hover
+{
+    background-color: blue;
+    color: red;
+    transition: all 1s;
+}
+
+iframe
+{
+    width: 100%;
+}
