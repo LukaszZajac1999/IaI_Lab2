@@ -1,0 +1,27 @@
+nav ul li
+{
+    display: inline;
+}
+img {
+    width: 350px;
+    height: 350px;
+}
+a
+{
+ color: black;
+}
+.nav a:hover
+{
+    background-color: black;
+    color: purple;
+    transition: all 1s;
+}
+body
+{
+    background-color: purple;
+    color: black;
+}
+iframe
+{
+    width: 100%;
+}
